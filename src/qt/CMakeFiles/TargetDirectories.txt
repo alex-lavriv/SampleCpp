@@ -1,0 +1,4 @@
+/home/alex/development/Sample_cpp/src/qt/CMakeFiles/rebuild_cache.dir
+/home/alex/development/Sample_cpp/src/qt/CMakeFiles/helloQt.dir
+/home/alex/development/Sample_cpp/src/qt/CMakeFiles/edit_cache.dir
+/home/alex/development/Sample_cpp/src/qt/CMakeFiles/helloQt_autogen.dir

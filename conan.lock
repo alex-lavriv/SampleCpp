@@ -1,0 +1,41 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "path": "/home/alex/development/Sample_cpp/conanfile.txt", 
+    "pref": null, 
+    "requires": [
+     "1", 
+     "2", 
+     "3", 
+     "4"
+    ], 
+    "options": "docopt.cpp:boost_regex=False\ndocopt.cpp:fPIC=True\ndocopt.cpp:shared=False\nfmt:fPIC=True\nfmt:header_only=False\nfmt:shared=False\nfmt:with_fmt_alias=False\nspdlog:fPIC=True\nspdlog:header_only=False\nspdlog:no_exceptions=False\nspdlog:shared=False\nspdlog:wchar_filenames=False\nspdlog:wchar_support=False"
+   }, 
+   "1": {
+    "pref": "catch2/2.11.0#0:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9#0", 
+    "options": ""
+   }, 
+   "2": {
+    "pref": "docopt.cpp/0.6.2#0:f54287fc3dbd09590f968b580bebb565ea4a4b17#f39d8b945e4dccaeb5496abf2fe5340c", 
+    "options": "boost_regex=False\nfPIC=True\nshared=False", 
+    "modified": "built"
+   }, 
+   "3": {
+    "pref": "fmt/6.0.0#0:f54287fc3dbd09590f968b580bebb565ea4a4b17#88771878260f675b567cab84bd44ca35", 
+    "options": "fPIC=True\nheader_only=False\nshared=False\nwith_fmt_alias=False", 
+    "modified": "built"
+   }, 
+   "4": {
+    "pref": "spdlog/1.5.0#0:12c8590eca64ca13d7eac957bde897f3a31c0f6e#3a7711af93c622fae2aa1de790524ffe", 
+    "requires": [
+     "3"
+    ], 
+    "options": "fPIC=True\nheader_only=False\nno_exceptions=False\nshared=False\nwchar_filenames=False\nwchar_support=False\nfmt:fPIC=True\nfmt:header_only=False\nfmt:shared=False\nfmt:with_fmt_alias=False", 
+    "modified": "built"
+   }
+  }
+ }, 
+ "version": "0.3", 
+ "profile_host": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=RelWithDebInfo\ncompiler=gcc\ncompiler.libcxx=libstdc++11\ncompiler.version=9\nos=Linux\nos_build=Linux\n[options]\n[build_requires]\n[env]\n"
+}

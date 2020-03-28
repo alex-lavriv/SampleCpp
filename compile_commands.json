@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/alex/development/Sample_cpp/test",
+  "command": "/usr/bin/c++   -isystem /home/alex/.conan/data/catch2/2.11.0/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include    -O2 -g -DNDEBUG   -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Werror -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++17 -o CMakeFiles/tests.dir/tests.cpp.o -c /home/alex/development/Sample_cpp/test/tests.cpp",
+  "file": "/home/alex/development/Sample_cpp/test/tests.cpp"
+},
+{
+  "directory": "/home/alex/development/Sample_cpp/test",
+  "command": "/usr/bin/c++   -isystem /home/alex/.conan/data/catch2/2.11.0/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include    -O2 -g -DNDEBUG   -o CMakeFiles/catch_main.dir/catch_main.cpp.o -c /home/alex/development/Sample_cpp/test/catch_main.cpp",
+  "file": "/home/alex/development/Sample_cpp/test/catch_main.cpp"
+},
+{
+  "directory": "/home/alex/development/Sample_cpp/test",
+  "command": "/usr/bin/c++   -isystem /home/alex/.conan/data/catch2/2.11.0/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include    -O2 -g -DNDEBUG   -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Werror -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++17 -o CMakeFiles/constexpr_tests.dir/constexpr_tests.cpp.o -c /home/alex/development/Sample_cpp/test/constexpr_tests.cpp",
+  "file": "/home/alex/development/Sample_cpp/test/constexpr_tests.cpp"
+},
+{
+  "directory": "/home/alex/development/Sample_cpp/test",
+  "command": "/usr/bin/c++  -DCATCH_CONFIG_RUNTIME_STATIC_REQUIRE -isystem /home/alex/.conan/data/catch2/2.11.0/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include    -O2 -g -DNDEBUG   -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Werror -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++17 -o CMakeFiles/relaxed_constexpr_tests.dir/constexpr_tests.cpp.o -c /home/alex/development/Sample_cpp/test/constexpr_tests.cpp",
+  "file": "/home/alex/development/Sample_cpp/test/constexpr_tests.cpp"
+},
+{
+  "directory": "/home/alex/development/Sample_cpp/src",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -isystem /home/alex/.conan/data/docopt.cpp/0.6.2/_/_/package/f54287fc3dbd09590f968b580bebb565ea4a4b17/include -isystem /home/alex/.conan/data/fmt/6.0.0/_/_/package/f54287fc3dbd09590f968b580bebb565ea4a4b17/include -isystem /home/alex/.conan/data/spdlog/1.5.0/_/_/package/12c8590eca64ca13d7eac957bde897f3a31c0f6e/include    -O2 -g -DNDEBUG   -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Werror -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++17 -o CMakeFiles/intro.dir/main.cpp.o -c /home/alex/development/Sample_cpp/src/main.cpp",
+  "file": "/home/alex/development/Sample_cpp/src/main.cpp"
+}
+]

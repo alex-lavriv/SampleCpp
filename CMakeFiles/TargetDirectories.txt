@@ -1,0 +1,14 @@
+/home/alex/development/Sample_cpp/CMakeFiles/rebuild_cache.dir
+/home/alex/development/Sample_cpp/CMakeFiles/edit_cache.dir
+/home/alex/development/Sample_cpp/CMakeFiles/test.dir
+/home/alex/development/Sample_cpp/test/CMakeFiles/rebuild_cache.dir
+/home/alex/development/Sample_cpp/test/CMakeFiles/edit_cache.dir
+/home/alex/development/Sample_cpp/test/CMakeFiles/tests.dir
+/home/alex/development/Sample_cpp/test/CMakeFiles/catch_main.dir
+/home/alex/development/Sample_cpp/test/CMakeFiles/constexpr_tests.dir
+/home/alex/development/Sample_cpp/test/CMakeFiles/relaxed_constexpr_tests.dir
+/home/alex/development/Sample_cpp/test/CMakeFiles/test.dir
+/home/alex/development/Sample_cpp/src/CMakeFiles/rebuild_cache.dir
+/home/alex/development/Sample_cpp/src/CMakeFiles/edit_cache.dir
+/home/alex/development/Sample_cpp/src/CMakeFiles/intro.dir
+/home/alex/development/Sample_cpp/src/CMakeFiles/test.dir
